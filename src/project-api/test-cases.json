@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Drone Delivery",
+    "duration": 6,
+    "skills": ["C++", "Python"],
+    "department": "Research",
+    "success": true
+  },
+  {
+    "name": "",
+    "duration": 6,
+    "skills": ["C++"],
+    "department": "Research",
+    "success": false
+  },
+  {
+    "duration": 6,
+    "skills": ["C++"],
+    "department": "Research",
+    "success": false
+  },
+
+  {
+    "name": "Visual Processing",
+    "duration": -1,
+    "skills": ["C++"],
+    "department": "Research",
+    "success": false
+  },
+  {
+    "name": "Data Visualization",
+    "duration": 3,
+    "skills": ["Python", "Javascript"],
+    "department": "Marketing",
+    "success": true
+  },
+  {
+    "name": "Data Visualization",
+    "duration": 3,
+    "skills": ["Python", "Javascript"],
+    "department": "",
+    "success": false
+  }
+]
