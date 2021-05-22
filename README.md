@@ -9,11 +9,11 @@ The project will be a web-based application with separate client and server modu
 
 
 ## User's profile:
-● Manager: Need a UI that allows smooth management of projects with minimal
+* Manager: Need a UI that allows smooth management of projects with minimal
 friction.
-● Employee: Require simple setup to confirm/reject project allocations and submit
+* Employee: Require simple setup to confirm/reject project allocations and submit
 work hours.
-● Head of Department: Simple dashboard to approve/deny projects and track their
+* Head of Department: Simple dashboard to approve/deny projects and track their
 progress.
 
 All the users are directly or indirectly involved in software development so are considered
