@@ -19,3 +19,6 @@ progress.
 All the users are directly or indirectly involved in software development so are considered
 technically competent to use a standard User Interface.
 
+## Note
+
+Project design documents are given in doc directory and the code for the software is given in 
